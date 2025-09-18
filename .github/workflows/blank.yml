@@ -16,7 +16,6 @@ env:
 jobs:
   python-ci:
     runs-on: ubuntu-latest
-
     defaults:
       run:
         working-directory: ./src
